@@ -1,17 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=5bcefa&height=300&section=header&text=Zelie's%20github&desc=French%20optimist%20and%20sometimes%20developper&descAlign=60&descAlignY=65&fontFamily=Optima&fontSize=90)
 
 # Greetings! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px">
-My name is Zélie Delhotal and I'm a software developer student living in France.
+My name is Zélie Delhotal and I'm a software developer student living in France. <br/>
 Pronouns: She/Her
 
 ## Languages, Tools and Technologies
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  width="40" height="40"/>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  width="40" height="40"/></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  width="40" height="40"/></a>\
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"  width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  width="40" height="40"/>
-<img src="https://obsidian.md/favicon.ico"  width="40" height="40"/>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  width="40" height="40"/>
+<img src="https://obsidian.md/favicon.ico"  width="40" height="40"/></p>
 
 ## Work in Progress
 
@@ -20,7 +20,7 @@ I'm currently working on the following projects:
 42 Cursus: CPP piscine - A series of small projects to learn the ropes of C++
 Quadball Test O'matic - A web project with quizzes to learn the rules of quadball
 
-I use <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original-wordmark.svg" height="20px"/> by the way! Click the preview to access my dotfiles
+I use <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original-wordmark.svg" height="50px"/> by the way! Click the preview to access my dotfiles
 
 (Preview here)
 
@@ -31,7 +31,7 @@ I use <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archli
 ## For Fun !
 
 Also find me on:
-<img src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" alt="CodinGame logo"width="60" height="60">
+<img src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" alt="CodinGame logo"width="60" height="60" />
 <img src="https://github.com/leek-wars/leek-wars/blob/master/public/image/icon192.png" width="60" height="60" />
 
 ## AI Manifesto
