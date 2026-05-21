@@ -1,17 +1,42 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=5bcefa&height=300&section=header&text=Zelie's%20github&desc=French%20optimist%20and%20sometimes%20developper&descAlign=60&descAlignY=65&fontFamily=Optima&fontSize=90)
 
-# Greetings! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">
+# Greetings! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px">
 My name is Zélie Delhotal and I'm a software developer student living in France.
+Pronouns: She/Her
 
 ## Languages, Tools and Technologies
-C, C++, Linux, Neovim, Git, Obsidian
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"  width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  width="40" height="40"/>
+<img src="https://obsidian.md/favicon.ico"  width="40" height="40"/>
+
+## Work in Progress
+
+I'm currently working on the following projects:
+
+42 Cursus: CPP piscine - A series of small projects to learn the ropes of C++
+Quadball Test O'matic - A web project with quizzes to learn the rules of quadball
+
+I use <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original-wordmark.svg" height="20px"/> by the way! Click the preview to access my dotfiles
+
+(Preview here)
+
+## Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zelie-delhotal&theme=nightowl)](https://git.io/streak-stats)
+
+## For Fun !
+
+Also find me on:
+<img src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" alt="CodinGame logo"width="60" height="60">
+<img src="https://github.com/leek-wars/leek-wars/blob/master/public/image/icon192.png" width="60" height="60" />
 
 ## AI Manifesto
 
-<p>
-No AI has been used at any stage of the projects on this account. <br>
-I firmly believe AI's short term "productivity boost" can never make up to the long lasting damage it does in many forms:
-</p>
+<p>No AI has ever been used at any stage of the projects on this account. Here are a few reasons why:</p>
 
 - For juniors, AI usage during the learning process negatively affects your ability to learn.
 - Even amongst more experienced developpers, AI's effect is largely overestimated
@@ -25,22 +50,7 @@ I firmly believe AI's short term "productivity boost" can never make up to the l
 - Lobbying by big tech companies means that we cannot rely only on state actions to regulate AI usage.
 - LLMs reproduce and amplify biases and inequality
 
-## Work in Progress
-
-I'm currently working on the following projects:
-
-I use arch btw! Click the preview to access my dotfiles
-
-(Preview here)
-
-## Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zelie-delhotal&theme=nightowl)](https://git.io/streak-stats)
-
-## For Fun !
-
-Also find me on:
-Codingame / Leekwars
+## 42 Cursus
 
 ## Apart from Coding
 
@@ -52,8 +62,7 @@ I like:
 
 1. <a href="https://collimateur.uqam.ca/wp-content/uploads/sites/11/2025/12/2506.08872v1_comp.pdf">Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task</a>
 2. <a href="https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study">Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity</a>
-3. <a href="https://metr.org/blog/2026-02-24-uplift-update">
- Recent critique on the previous study by the researchers themselves</a>
+3. <a href="https://metr.org/blog/2026-02-24-uplift-update">Recent critique on the previous study by the researchers themselves</a>
 4. <a href="https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity">AI-Generated “Workslop” Is Destroying Productivity</a>
 5. <a href="https://hai.stanford.edu/ai-index/2026-ai-index-report">Stanford University 2026 AI Index Report</a>
 6. <a href="https://doi.org/10.1080/1369118X.2024.2420021">The supply chain capitalism of AI</a>
