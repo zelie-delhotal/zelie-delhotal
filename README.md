@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=5bcefa&height=300&section=header&text=Zelie's%20github&desc=French%20optimist%20and%20sometimes%20developper&descAlign=60&descAlignY=65&fontFamily=Optima&fontSize=90)
 
-<p align="center">She / Her</p>
+# Greetings! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">
+My name is Zélie Delhotal and I'm a software developer student living in France.
+
+## Languages, Tools and Technologies
+C, C++, Linux, Neovim, Git, Obsidian
 
 ## AI Manifesto
 
@@ -19,14 +23,38 @@ I firmly believe AI's short term "productivity boost" can never make up to the l
 - The monetary cost of AI training and usage concentrate the most performant agents in the hands of a few private actors
 - As per the previous point, data sovereignty becomes a problem when using AI
 - Lobbying by big tech companies means that we cannot rely only on state actions to regulate AI usage.
+- LLMs reproduce and amplify biases and inequality
 
+## Work in Progress
+
+I'm currently working on the following projects:
+
+I use arch btw! Click the preview to access my dotfiles
+
+(Preview here)
+
+## Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zelie-delhotal&theme=nightowl)](https://git.io/streak-stats)
+
+## For Fun !
+
+Also find me on:
+Codingame / Leekwars
+
+## Apart from Coding
+
+I like:
+- TTRPGs
+- Quadball
 
 ## Sources:
 
 1. <a href="https://collimateur.uqam.ca/wp-content/uploads/sites/11/2025/12/2506.08872v1_comp.pdf">Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task</a>
-2. <a href="https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study">Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity</a>3. <a href="https://metr.org/blog/2026-02-24-uplift-update">
+2. <a href="https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study">Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity</a>
+3. <a href="https://metr.org/blog/2026-02-24-uplift-update">
  Recent critique on the previous study by the researchers themselves</a>
- 4. <a href="https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity">AI-Generated “Workslop” Is Destroying Productivity</a>
+4. <a href="https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity">AI-Generated “Workslop” Is Destroying Productivity</a>
 5. <a href="https://hai.stanford.edu/ai-index/2026-ai-index-report">Stanford University 2026 AI Index Report</a>
 6. <a href="https://doi.org/10.1080/1369118X.2024.2420021">The supply chain capitalism of AI</a>
 7. <a href="https://doi.org/10.1038/s43588-024-00712-6">E-waste challenges of generative artificial intelligence</a>
@@ -34,6 +62,7 @@ I firmly believe AI's short term "productivity boost" can never make up to the l
 9. <a href="https://transparency.eu/wp-content/uploads/2024/10/Deep_pockets_open_doors_report.pdf">Deep Pockets, Open Doors - Big tech lobbying in Brussels</a>
 10. <a href="https://www.iea.org/reports/energy-and-ai">IEA Energy and AI report</a>
 11. Need sources on water withdrawal and "water positivity" greenwashing
+12. <a href="https://doi.org/10.1177/29768624251408919">The silicon gaze: a typology of biases and inequality in LLMs through the lens of place</a>
 <!--
 **zelie-delhotal/zelie-delhotal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
