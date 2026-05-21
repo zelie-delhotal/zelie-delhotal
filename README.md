@@ -8,10 +8,10 @@ Pronouns: She/Her
 
 <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
 <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  width="40" height="40"/></a>
-<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  width="40" height="40"/></a>\
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"  width="40" height="40"/>
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  width="40" height="40"/>
-<img src="https://obsidian.md/favicon.ico"  width="40" height="40"/></p>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  width="40" height="40"/></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"  width="40" height="40"/></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  width="40" height="40"/></a>
+<a href=""><img src="https://obsidian.md/favicon.ico"  width="40" height="40"/></a>
 
 ## Work in Progress
 
@@ -20,7 +20,7 @@ I'm currently working on the following projects:
 42 Cursus: CPP piscine - A series of small projects to learn the ropes of C++
 Quadball Test O'matic - A web project with quizzes to learn the rules of quadball
 
-I use <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original-wordmark.svg" height="50px"/> by the way! Click the preview to access my dotfiles
+I use <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original-wordmark.svg" height="80px"style="margin-top:20px;"/> by the way! Click the preview to access my dotfiles
 
 (Preview here)
 
@@ -31,8 +31,8 @@ I use <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archli
 ## For Fun !
 
 Also find me on:
-<img src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" alt="CodinGame logo"width="60" height="60" />
-<img src="https://github.com/leek-wars/leek-wars/blob/master/public/image/icon192.png" width="60" height="60" />
+<p><img src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" width="60" height="60" />
+<img src="https://github.com/leek-wars/leek-wars/blob/master/public/image/icon192.png" width="60" height="60" /></p>
 
 ## AI Manifesto
 
