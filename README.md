@@ -23,26 +23,16 @@ I firmly believe AI's short term "productivity boost" can never make up to the l
 
 ## Sources:
 
-1. <a href="https://collimateur.uqam.ca/wp-content/uploads/sites/11/2025/12/2506.08872v1_comp.pdf">
- Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task</a>
-2. <a href="https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study">
- Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity</a>
-3. <a href="https://metr.org/blog/2026-02-24-uplift-update">
+1. <a href="https://collimateur.uqam.ca/wp-content/uploads/sites/11/2025/12/2506.08872v1_comp.pdf">Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task</a>
+2. <a href="https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study">Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity</a>3. <a href="https://metr.org/blog/2026-02-24-uplift-update">
  Recent critique on the previous study by the researchers themselves</a>
-4. <a href="https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity">
- AI-Generated “Workslop” Is Destroying Productivity</a>
-5. <a href="https://hai.stanford.edu/ai-index/2026-ai-index-report">
- Stanford University 2026 AI Index Report</a>
-6. <a href="https://doi.org/10.1080/1369118X.2024.2420021">
- The supply chain capitalism of AI</a>
-7. <a href="https://doi.org/10.1038/s43588-024-00712-6">
- E-waste challenges of generative artificial intelligence</a>
-8. <a href="https://arxiv.org/pdf/2412.06288">
- The Unpaid Toll: Estimating and Addressing the Public Health Impact of Data Centers</a>
-9. <a href="https://transparency.eu/wp-content/uploads/2024/10/Deep_pockets_open_doors_report.pdf">
- Deep Pockets, Open Doors - Big tech lobbying in Brussels</a>
-10. <a href="https://www.iea.org/reports/energy-and-ai">
- IEA Energy and AI report</a>
+ 4. <a href="https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity">AI-Generated “Workslop” Is Destroying Productivity</a>
+5. <a href="https://hai.stanford.edu/ai-index/2026-ai-index-report">Stanford University 2026 AI Index Report</a>
+6. <a href="https://doi.org/10.1080/1369118X.2024.2420021">The supply chain capitalism of AI</a>
+7. <a href="https://doi.org/10.1038/s43588-024-00712-6">E-waste challenges of generative artificial intelligence</a>
+8. <a href="https://arxiv.org/pdf/2412.06288">The Unpaid Toll: Estimating and Addressing the Public Health Impact of Data Centers</a>
+9. <a href="https://transparency.eu/wp-content/uploads/2024/10/Deep_pockets_open_doors_report.pdf">Deep Pockets, Open Doors - Big tech lobbying in Brussels</a>
+10. <a href="https://www.iea.org/reports/energy-and-ai">IEA Energy and AI report</a>
 11. Need sources on water withdrawal and "water positivity" greenwashing
 <!--
 **zelie-delhotal/zelie-delhotal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
