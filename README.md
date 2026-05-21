@@ -6,40 +6,45 @@ Pronouns: She/Her
 
 ## Languages, Tools and Technologies
 
-<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"  width="40" height="40"/></a>
-<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  width="40" height="40"/></a>
-<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg"  width="40" height="40"/></a>
-<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  width="40" height="40"/></a>
+<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="40" height="40" /></a>
+<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40"/></a>
+<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" width="40" height="40" style="background-color: white"/></a>
+<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Z_Shell_Logo_Color_Vertical.svg" width="40" height="40" style="background-color: white"/></a>
+<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"  width="40" height="40"/></a>
+<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Neovim-mark-flat.svg"  width="40" height="40"/></a>
+<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"  width="40" height="40"/></a>
 <a href=""><img src="https://obsidian.md/favicon.ico"  width="40" height="40"/></a>
 
 ## Work in Progress
 
 I'm currently working on the following projects:
 
+![Static Badge](https://img.shields.io/badge/%2042CPP-grey?logo=github&link=https%3A%2F%2Fgithub.com%2Fzelie-delhotal%2F42CPP)
 42 Cursus: CPP piscine - A series of small projects to learn the ropes of C++
 Quadball Test O'matic - A web project with quizzes to learn the rules of quadball
 
-I use <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original-wordmark.svg" height="80px"style="margin-top:20px;"/> by the way! Click the preview to access my dotfiles
+I use <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original-wordmark.svg" height="80px" style="vertical-align:middle"/> by the way! Click the hyprland preview below to access my dotfiles
 
 (Preview here)
 
 ## Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zelie-delhotal&theme=nightowl)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zelie-delhotal)](https://github.com/anuraghazra/github-readme-stats)
 
 ## For Fun !
 
 Also find me on:
-<p><img src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" width="60" height="60" />
-<img src="https://github.com/leek-wars/leek-wars/blob/master/public/image/icon192.png" width="60" height="60" /></p>
+<p style="text-align:center"><a href=""><img src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" width="60" height="60" /></a>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href=""><img src="https://github.com/leek-wars/leek-wars/blob/master/public/image/icon192.png" width="60" height="60" /></a></p>
 
 ## AI Manifesto
 
 <p>No AI has ever been used at any stage of the projects on this account. Here are a few reasons why:</p>
 
-- For juniors, AI usage during the learning process negatively affects your ability to learn.
-- Even amongst more experienced developpers, AI's effect is largely overestimated
+- AI usage during the learning process negatively affects your ability to learn.
+- Even amongst more experienced developpers, AI's benefits on productivity are largely overestimated
 - AI environmental impact is skyrocketting, pumping drinkable water from already dry areas and consuming more and more electricity
 - AI's need of compute power means it requires a lot of hardware whose production is polluting
 - The same hardware becomes less accessible to the public, raising ethical questions about equality.
