@@ -30,12 +30,12 @@ I use <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archli
 ## Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zelie-delhotal&theme=nightowl)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zelie-delhotal)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zelie-delhotal)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## For Fun !
 
 Also find me on:
-<p style="text-align:center"><a href=""><img src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" width="60" height="60" /></a>
+<p align="center"><a href=""><img src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" width="60" height="60" /></a>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href=""><img src="https://github.com/leek-wars/leek-wars/blob/master/public/image/icon192.png" width="60" height="60" /></a></p>
 
@@ -43,25 +43,33 @@ Also find me on:
 
 <p>No AI has ever been used at any stage of the projects on this account. Here are a few reasons why:</p>
 
-- AI usage during the learning process negatively affects your ability to learn.
-- Even amongst more experienced developpers, AI's benefits on productivity are largely overestimated
-- AI environmental impact is skyrocketting, pumping drinkable water from already dry areas and consuming more and more electricity
-- AI's need of compute power means it requires a lot of hardware whose production is polluting
+- AI usage during the learning process negatively affects your ability to learn. ^[1](#Sources:)^
+- Even amongst more experienced developpers, AI's benefits on productivity are largely overestimated^[2](#Sources:)[3](#Sources:)[4](#Sources:)^
+- AI environmental impact is skyrocketting, pumping drinkable water from already dry areas and consuming more and more electricity ^[5](#Sources:)[10](#Sources:)^
+- AI's need of compute power means it requires a lot of hardware whose production is polluting^[6](#Sources:)^
 - The same hardware becomes less accessible to the public, raising ethical questions about equality.
-- Said hardware only has an estimated 5-year lifespan and is not recycled properly in 78% cases. Additional e-waste could reach 5 million tons by 2030
-- New Data Centers built for AI are a local public health concern
-- The monetary cost of AI training and usage concentrate the most performant agents in the hands of a few private actors
+- Said hardware only has an estimated 5-year lifespan and is not recycled properly in 78% cases. Additional e-waste could reach 5 million tons by 2030^[7](#Sources:)^
+- New Data Centers built for AI are a local public health concern^[8](#Sources:)^
+- The monetary cost of AI training and usage concentrate the most performant agents in the hands of a few private actors^[5](#Sources:)^
 - As per the previous point, data sovereignty becomes a problem when using AI
-- Lobbying by big tech companies means that we cannot rely only on state actions to regulate AI usage.
-- LLMs reproduce and amplify biases and inequality
+- Lobbying by big tech companies means that we cannot rely only on state actions to regulate AI usage.^[9](#Sources:)^
+- LLMs reproduce and amplify biases and inequality^[12](#Sources:)^
 
 ## 42 Cursus
 
 ## Apart from Coding
 
 I like:
-- TTRPGs
-- Quadball
+<details>
+### TableTop RolePlaying Games
+<summary>- TTRPGs</summary>
+<p>Some explicative text</p>
+</details>
+<details>
+### Quadball
+<summary>- Quadball</summary>
+<p> More explicative text</p>
+</details>
 
 ## Sources:
 
