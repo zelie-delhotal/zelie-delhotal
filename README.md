@@ -43,32 +43,34 @@ Also find me on:
 
 <p>No AI has ever been used at any stage of the projects on this account. Here are a few reasons why:</p>
 
-- AI usage during the learning process negatively affects your ability to learn. ^[1](#Sources:)^
-- Even amongst more experienced developpers, AI's benefits on productivity are largely overestimated^[2](#Sources:)[3](#Sources:)[4](#Sources:)^
-- AI environmental impact is skyrocketting, pumping drinkable water from already dry areas and consuming more and more electricity ^[5](#Sources:)[10](#Sources:)^
-- AI's need of compute power means it requires a lot of hardware whose production is polluting^[6](#Sources:)^
+- AI usage during the learning process negatively affects your ability to learn. <sup>[[1]](#sources)</sup>
+- Even amongst more experienced developpers, AI's benefits on productivity are largely overestimated<sup>[[2]](#sources)[[3]](#sources)[[4]](#sources)</sup>
+- AI environmental impact is skyrocketting, pumping drinkable water from already dry areas and consuming more and more electricity <sup>[[5]](#sources)[10](#sources)</sup>
+- AI's need of compute power means it requires a lot of hardware whose production is polluting<sup>[[6]](#sources)</sup>
 - The same hardware becomes less accessible to the public, raising ethical questions about equality.
-- Said hardware only has an estimated 5-year lifespan and is not recycled properly in 78% cases. Additional e-waste could reach 5 million tons by 2030^[7](#Sources:)^
-- New Data Centers built for AI are a local public health concern^[8](#Sources:)^
-- The monetary cost of AI training and usage concentrate the most performant agents in the hands of a few private actors^[5](#Sources:)^
+- Said hardware only has an estimated 5-year lifespan and is not recycled properly in 78% cases. Additional e-waste could reach 5 million tons by 2030<sup>[[7]](#sources)</sup>
+- New Data Centers built for AI are a local public health concern<sup>[[8]](#sources)</sup>
+- The monetary cost of AI training and usage concentrate the most performant agents in the hands of a few private actors<sup>[[5]](#sources)</sup>
 - As per the previous point, data sovereignty becomes a problem when using AI
-- Lobbying by big tech companies means that we cannot rely only on state actions to regulate AI usage.^[9](#Sources:)^
-- LLMs reproduce and amplify biases and inequality^[12](#Sources:)^
+- Lobbying by big tech companies means that we cannot rely only on state actions to regulate AI usage.<sup>[[9]](#sources)</sup>
+- LLMs reproduce and amplify biases and inequality<sup>[12](#sources)</sup>
 
 ## 42 Cursus
 
 ## Apart from Coding
 
-I like:
+I also like:
 <details>
-### TableTop RolePlaying Games
-<summary>- TTRPGs</summary>
-<p>Some explicative text</p>
-</details>
-<details>
-### Quadball
-<summary>- Quadball</summary>
+<summary>TTRPGs!</summary>
 <p> More explicative text</p>
+> abcdef
+ghi
+<p>jkl</p>
+</details>
+
+<details>
+<summary>Quadball!</summary>
+<p>Quadball is the first inclusive mixed-gender contact sport.</p>
 </details>
 
 ## Sources:
