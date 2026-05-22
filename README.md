@@ -38,6 +38,7 @@ Also find me on:
 <p align="center"><a href=""><img src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" width="60" height="60" /></a>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href=""><img src="https://github.com/leek-wars/leek-wars/blob/master/public/image/icon192.png" width="60" height="60" /></a></p>
+<p align="center"> CodinGame &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Leekwars &nbsp&nbsp&nbsp</p>
 
 ## AI Manifesto
 
@@ -51,25 +52,31 @@ Also find me on:
 - Said hardware only has an estimated 5-year lifespan and is not recycled properly in 78% cases. Additional e-waste could reach 5 million tons by 2030<sup>[[7]](#sources)</sup>
 - New Data Centers built for AI are a local public health concern<sup>[[8]](#sources)</sup>
 - The monetary cost of AI training and usage concentrate the most performant agents in the hands of a few private actors<sup>[[5]](#sources)</sup>
-- As per the previous point, data sovereignty becomes a problem when using AI
+- As per the previous point, data sovereignty becomes a problem when using AI. We've also seen some of these companies silently installing backdoors in other apps<sup>[[13]](#sources)</sup>
 - Lobbying by big tech companies means that we cannot rely only on state actions to regulate AI usage.<sup>[[9]](#sources)</sup>
-- LLMs reproduce and amplify biases and inequality<sup>[12](#sources)</sup>
+- LLMs reproduce and amplify biases and inequality<sup>[[12]](#sources)</sup>
 
 ## 42 Cursus
 
 ## Apart from Coding
 
 I also like:
-<details>
-<summary>TTRPGs!</summary>
-<p> More explicative text</p>
-> abcdef
-ghi
-<p>jkl</p>
+<details> <summary>TTRPGs!</summary>
+<p>TableTop Roleplaying Games are a fun mix of improvisation theater, rolling dice and doing math</p>
+<p>I've been participating in such games since 2020 as a player and dungeon master(or DM =person in charge of narrating the universe and enforcing a few rules of the game)</p>
+
+<details> <summary> **What skills does that developp?**</summary>
+- Communication & Planning: We've been rassembling different groups of working adults for 2-5 hours at least once a month
+- Adaptation: TTRPGs are all about improvisation. Being a DM means you have to be ready for everything the players' mind can come up with and react in real time
 </details>
 
-<details>
-<summary>Quadball!</summary>
+<details> <summary> Cool! What do you play?</summary>
+<p>I'm glad you asked !</p>
+</details>
+
+</details>
+
+<details> <summary>Quadball!</summary>
 <p>Quadball is the first inclusive mixed-gender contact sport.</p>
 </details>
 
@@ -87,6 +94,8 @@ ghi
 10. <a href="https://www.iea.org/reports/energy-and-ai">IEA Energy and AI report</a>
 11. Need sources on water withdrawal and "water positivity" greenwashing
 12. <a href="https://doi.org/10.1177/29768624251408919">The silicon gaze: a typology of biases and inequality in LLMs through the lens of place</a>
+13. <a href="https://www.thatprivacyguy.com/blog/anthropic-spyware/">Anthropic secretly installs spyware when you install Claude Desktop</a>
+
 <!--
 **zelie-delhotal/zelie-delhotal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
