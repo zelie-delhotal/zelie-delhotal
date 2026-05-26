@@ -27,7 +27,7 @@ I'm currently working on the following projects:
 
 I use <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original-wordmark.svg" height="80px"/> by the way! Click the hyprland preview below to access my dotfiles
 
-(Preview here)
+[![Hyprland preview](images/hyprexample)]
 
 ## Stats
 
