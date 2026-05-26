@@ -16,14 +16,16 @@ Pronouns: She/Her
 <a href=""><img src="https://obsidian.md/favicon.ico"  width="40" height="40"/></a>
 
 ## Work in Progress
+<!--  badges are made with shields.io -->
 
 I'm currently working on the following projects:
 
-![Static Badge](https://img.shields.io/badge/%2042CPP-grey?logo=github&link=https%3A%2F%2Fgithub.com%2Fzelie-delhotal%2F42CPP)
-42 Cursus: CPP piscine - A series of small projects to learn the ropes of C++
-Quadball Test O'matic - A web project with quizzes to learn the rules of quadball
+<a href ="https://github.com/zelie-delhotal/42CPP">![Static Badge](https://img.shields.io/badge/%2042CPP-grey?logo=github&link=https%3A%2F%2Fgithub.com%2Fzelie-delhotal%2F42CPP)</a>
+ - A series of small projects to learn the ropes of C++, part of 42 Cursus </br>
+![Static Badge](https://img.shields.io/badge/%2042CPP-grey?logo=github&link=https%3A%2F%2Fgithub.com%2Fzelie-delhotal%2FquadballTestomatic)
+ - A web project with quizzes to learn the rules of quadball
 
-I use <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original-wordmark.svg" height="80px" style="vertical-align:middle"/> by the way! Click the hyprland preview below to access my dotfiles
+I use <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original-wordmark.svg" height="80px"/> by the way! Click the hyprland preview below to access my dotfiles
 
 (Preview here)
 
@@ -46,7 +48,7 @@ Also find me on:
 
 - AI usage during the learning process negatively affects your ability to learn. <sup>[[1]](#sources)</sup>
 - Even amongst more experienced developpers, AI's benefits on productivity are largely overestimated<sup>[[2]](#sources)[[3]](#sources)[[4]](#sources)</sup>
-- AI environmental impact is skyrocketting, pumping drinkable water from already dry areas and consuming more and more electricity <sup>[[5]](#sources)[10](#sources)</sup>
+- AI environmental impact is skyrocketting, pumping drinkable water from already dry areas and consuming more and more electricity <sup>[[5]](#sources)[[10]](#sources)</sup>
 - AI's need of compute power means it requires a lot of hardware whose production is polluting<sup>[[6]](#sources)</sup>
 - The same hardware becomes less accessible to the public, raising ethical questions about equality.
 - Said hardware only has an estimated 5-year lifespan and is not recycled properly in 78% cases. Additional e-waste could reach 5 million tons by 2030<sup>[[7]](#sources)</sup>
@@ -58,6 +60,8 @@ Also find me on:
 
 ## 42 Cursus
 
+[![gdelhota's 42 stats](https://badge.mediaplus.ma/darkblue/gdelhota?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 ## Apart from Coding
 
 I also like:
@@ -66,7 +70,7 @@ I also like:
 <p>I've been participating in such games since 2020 as a player and dungeon master(or DM =person in charge of narrating the universe and enforcing a few rules of the game)</p>
 
 <details> <summary> **What skills does that developp?**</summary>
-- Communication & Planning: We've been rassembling different groups of working adults for 2-5 hours at least once a month
+- Communication & Planning: We've been rassembling different groups of employed adults for 2-5 hours at least once a month
 - Adaptation: TTRPGs are all about improvisation. Being a DM means you have to be ready for everything the players' mind can come up with and react in real time
 </details>
 
